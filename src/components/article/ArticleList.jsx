@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Article from './Article';
 
-const ArticleList = ({ articles }) => {
+const ArticleList = ({ articles }) => (
     <ul aria-label='articles'>
         {articles.map((article) => {
             return (
@@ -16,7 +16,7 @@ const ArticleList = ({ articles }) => {
             )
         })}       
     </ul>
-}
+)
 
 ArticleList.propTypes = {
     articles: PropTypes.arrayOf(

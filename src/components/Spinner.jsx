@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 const Spinner = props => {
     return (
-        <div>
+        <div aria-label='loading'>
             loading...
         </div>
     )
