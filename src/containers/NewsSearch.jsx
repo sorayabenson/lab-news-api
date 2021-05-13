@@ -5,6 +5,7 @@ import ArticleList from '../components/article/ArticleList';
 import Search from '../components/article/Search';
 import Header from '../components/Header';
 import { getThePaper } from '../services/newsApi';
+import '../components/style.css';
 
 export default class NewsSearch extends Component {
     state = {

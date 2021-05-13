@@ -1,6 +1,6 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import style from './article.css'
+import React from 'react';
+import PropTypes from 'prop-types';
+import style from '../style.css';
 
 const Article = ({ title, author, description, source, url }) => (
     
