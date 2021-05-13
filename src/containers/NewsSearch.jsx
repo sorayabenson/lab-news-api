@@ -4,13 +4,14 @@ import Spinner from '../components/Spinner';
 import ArticleList from '../components/article/ArticleList';
 import Search from '../components/article/Search';
 import Header from '../components/Header';
-import { getThePaper } from '../services/newsApi';
+import { getThePaper, scourPaper } from '../services/newsApi';
 import '../components/style.css';
 
 export default class NewsSearch extends Component {
     state = {
         loading: true,
-        articles: []
+        articles: [],
+        articleSearch: '',
     }
 
     async componentDidMount() {
@@ -22,15 +23,33 @@ export default class NewsSearch extends Component {
         })
     }
 
+    handleSearchChange = (e) => {
+        this.setState({ articleSearch: e.target.value });
+    }
+
+    handleSubmit = async (e) => {
+        e.preventDefault();
+        this.setState({ loading: true });
+
+        const articles = await scourPaper(this.state.articleSearch);
+        this.setState({
+            loading: false,
+            articles: articles
+        })
+    }
+
     render() {
-        const { loading, articles } = this.state;
+        const { loading, articles, articleSearch } = this.state;
 
         if (loading) return <Spinner />
 
         return (
             <>
                 <Header />
-                <Search />
+                <Search 
+                    articleSearch={articleSearch}
+                    onSearchChange={this.handleSearchChange}
+                    onSubmit={this.handleSubmit}/>
                 <ArticleList articles={articles}/>
             </>
         )

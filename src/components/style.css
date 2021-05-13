@@ -35,6 +35,30 @@ h4 {
     margin: 1rem;
 }
 
+form {
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    font-family: 'Roboto Slab', serif;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border: 2px solid '#232323';
+}
+
+button {
+    background: '#FFFCFF';
+    color: '#232323';
+    font-family: 'Roboto Slab', serif;
+    border: 2px solid '#232323';
+}
+
 ul {
     width: 75%;
     height: auto;
@@ -43,7 +67,6 @@ ul {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 
 li {
