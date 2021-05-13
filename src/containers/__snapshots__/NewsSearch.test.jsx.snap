@@ -1,0 +1,996 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsSearch container renders App 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://lifehacker.com/what-the-hell-happened-to-aukeys-products-on-amazon-1846870233"
+    >
+      <h3>
+        What the Hell Happened to Aukey's Products on Amazon?
+      </h3>
+      <h4>
+        Aukey makes good chargers, or so the many reviews and roundups of them lead me to believe. However, if you’ve been Amazon shopping lately, you might be surprised to find Aukey’s portfolio of products mysteriously missing.Read more...
+      </h4>
+      <p
+        class="author"
+      >
+        David Murphy
+      </p>
+      <p
+        class="source"
+      >
+        Lifehacker.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="http://techcrunch.com/2021/04/19/european-vc-soars-in-q1/"
+    >
+      <h3>
+        European VC soars in Q1
+      </h3>
+      <h4>
+        A stunning first quarter in venture capital funding was not restricted to the United States; Europe also had one hell of a start to the year.
+      </h4>
+      <p
+        class="author"
+      >
+        Anna Heim
+      </p>
+      <p
+        class="source"
+      >
+        TechCrunch
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.nytimes.com/2021/04/20/arts/music/jim-steinman-bat-out-of-hell-songwriter-dies-at-73.html"
+    >
+      <h3>
+        Jim Steinman, ‘Bat Out of Hell’ Songwriter, Dies at 73
+      </h3>
+      <h4>
+        The rocker Meat Loaf’s interpretations of Mr. Steinman’s songs became one of the biggest-selling albums of all time.
+      </h4>
+      <p
+        class="author"
+      >
+        Neil Genzlinger
+      </p>
+      <p
+        class="source"
+      >
+        New York Times
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://gizmodo.com/holy-hell-peloton-is-recalling-both-its-treadmills-1846827897"
+    >
+      <h3>
+        Holy Hell, Peloton Is Recalling Both Its Treadmills
+      </h3>
+      <h4>
+        After a heated back-and-forth with the U.S. Consumer Product Safety Commission (CPSC), Peloton has finally decided to issue two separate voluntary recalls of its Tread and Tread+ treadmills.Read more...
+      </h4>
+      <p
+        class="author"
+      >
+        Victoria Song
+      </p>
+      <p
+        class="source"
+      >
+        Gizmodo.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://lifehacker.com/top-10-ways-to-tame-and-deal-with-your-allergies-1757499217"
+    >
+      <h3>
+        10 Ways to Better Tame Your Spring Allergies
+      </h3>
+      <h4>
+        Sneezing, wheezing, and otherwise feeling like hell: Allergies are a special kind of everyday torture. Although we don’t have a cure for your food or environmental allergies, we do have some proven tips to help you suffer less and minimize reactions. Here are…
+      </h4>
+      <p
+        class="author"
+      >
+        Melanie Pinola
+      </p>
+      <p
+        class="source"
+      >
+        Lifehacker.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://lifehacker.com/how-do-i-install-windows-10-without-all-those-extra-upd-1846790600"
+    >
+      <h3>
+        How Do I Install Windows 10 Without All Those Extra Updates?
+      </h3>
+      <h4>
+        Every Windows PC would benefit from a spring cleaning. Hell, it doesn’t even have to be spring. If you can’t remember the last time you saved all your critical data, wiped your drive, and reinstalled a fresh copy of the operating system, you’re due. Read more…
+      </h4>
+      <p
+        class="author"
+      >
+        David Murphy
+      </p>
+      <p
+        class="source"
+      >
+        Lifehacker.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://lifehacker.com/what-to-do-if-your-dog-suffers-from-separation-anxiety-1846859612"
+    >
+      <h3>
+        What to Do If Your Dog Suffers From Separation Anxiety
+      </h3>
+      <h4>
+        Nuzzles, cuddles, and walks were available in abundance as people were confined to their homes during the pandemic, holed up with their pets, who were blissfully unaware of the mortifying circumstances of the outside world. But now that the United States appe…
+      </h4>
+      <p
+        class="author"
+      >
+        Sam Blum
+      </p>
+      <p
+        class="source"
+      >
+        Lifehacker.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://lifehacker.com/how-to-prepare-for-your-post-vax-slutty-summer-1846740170"
+    >
+      <h3>
+        How to Prepare for Your Post-Vax Slutty Summer
+      </h3>
+      <h4>
+        Adults are, of course, allowed to bang other consenting adults, and as of this week, they’re also all allowed to get vaccinated against COVID-19. And after over a year of mandated—and necessary—isolation, everybody’s randy. Hell, everybody’s been randy, but t…
+      </h4>
+      <p
+        class="author"
+      >
+        Lindsey Ellefson
+      </p>
+      <p
+        class="source"
+      >
+        Lifehacker.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.nytimes.com/2021/04/21/realestate/visiting-a-garden-center-this-spring-be-strategic.html"
+    >
+      <h3>
+        Visiting a Garden Center This Spring? Be Strategic.
+      </h3>
+      <h4>
+        There’s a reason the gardening industry fondly refers to this time of year as the ‘100 days of hell.’ And the pandemic has only made it more challenging.
+      </h4>
+      <p
+        class="author"
+      >
+        Margaret Roach
+      </p>
+      <p
+        class="source"
+      >
+        New York Times
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/what-is-the-omegaverse-tiktok-tumblr-fanfiction/"
+    >
+      <h3>
+        What the hell is the Omegaverse, and why is it all over TikTok?
+      </h3>
+      <h4>
+        Welcome, dear reader, to the Omegaverse.
+The phrase has been part of fanfiction communities for the better part of the last decade, but it gained mainstream traction on TikTok in the past month. The tag #Omegaverse has over 357 million views on TikTok, and co…
+      </h4>
+      <p
+        class="author"
+      >
+        Morgan Sung
+      </p>
+      <p
+        class="source"
+      >
+        Mashable
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/breakingviews/indias-pandemic-hell-could-be-purgatory-2021-04-23/"
+    >
+      <h3>
+        India's pandemic hell could be purgatory - Reuters
+      </h3>
+      <h4>
+        India has slender room to act if economic activity follows its medical infrastructure into a virus-induced state of collapse. So far there’s a wide gap between the two measures of health. Optimists hope antibodies and vaccines will cause the Covid-19 contagio…
+      </h4>
+      <p
+        class="author"
+      />
+      <p
+        class="source"
+      >
+        Reuters
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://offspring.lifehacker.com/what-are-your-go-to-parenting-mantras-1846788377"
+    >
+      <h3>
+        What Are Your Go-to Parenting Mantras?
+      </h3>
+      <h4>
+        So much of parenting is about the long game. We may be raising children, but we’re really raising adults—people who, in a surprisingly short amount of time, will be off on their own, living their own lives. And how we parent them as kids will at least partial…
+      </h4>
+      <p
+        class="author"
+      >
+        Meghan Moravcik Walbert
+      </p>
+      <p
+        class="source"
+      >
+        Lifehacker.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://io9.gizmodo.com/mass-effect-made-itself-on-virmire-1846815333"
+    >
+      <h3>
+        Mass Effect Made Itself on Virmire
+      </h3>
+      <h4>
+        Eden Prime. Ilos. The Suicide Mission. The Battle of London. A small apartment with one hell of a party on the Citadel. There are many moments and places in the Mass Effect universe to turn to as some of the most memorable, definitive pieces of its story. But…
+      </h4>
+      <p
+        class="author"
+      >
+        James Whitbrook
+      </p>
+      <p
+        class="source"
+      >
+        Gizmodo.com
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.engadget.com/high-hopes-balloon-carbon-capture-120057079.html"
+    >
+      <h3>
+        High Hopes plans to extract atmospheric CO2 with hot air balloons
+      </h3>
+      <h4>
+        Freezing CO2 is easier just below the stratosphere.
+      </h4>
+      <p
+        class="author"
+      >
+        https://www.engadget.com/about/editors/daniel-cooper
+      </p>
+      <p
+        class="source"
+      >
+        Engadget
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/article/us-haiti-kidnappings-insight-idUSKBN2CD12O"
+    >
+      <h3>
+        'Descent into hell': Kidnapping explosion terrorizes Haiti - Reuters
+      </h3>
+      <h4>
+        A wave of kidnappings is sweeping Haiti. But even in a country growing inured to horrific abductions, the case of five-year-old Olslina Janneus sparked outrage.
+      </h4>
+      <p
+        class="author"
+      >
+        Andre Paultre, Sarah Marsh
+      </p>
+      <p
+        class="source"
+      >
+        Reuters
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/world/americas/descent-into-hell-kidnapping-explosion-terrorizes-haiti-2021-04-26/"
+    >
+      <h3>
+        'Descent into hell': Kidnapping explosion terrorizes Haiti - Reuters
+      </h3>
+      <h4>
+        A wave of kidnappings is sweeping Haiti. But even in a country growing inured to horrific abductions, the case of five-year-old Olslina Janneus sparked outrage.
+      </h4>
+      <p
+        class="author"
+      >
+        Sarah Marsh
+      </p>
+      <p
+        class="source"
+      >
+        Reuters
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://hackaday.com/2021/05/03/silicon-carbide-chips-can-go-to-hell/"
+    >
+      <h3>
+        Silicon Carbide Chips can go to Hell
+      </h3>
+      <h4>
+        IEEE Spectrum had an interesting read about circuits using silicon carbide as a substrate. [Alan Mantooth] and colleagues say that circuits based on this or some other rugged technology will …read more
+      </h4>
+      <p
+        class="author"
+      >
+        Al Williams
+      </p>
+      <p
+        class="source"
+      >
+        Hackaday
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.bbc.com/news/entertainment-arts-56825060"
+    >
+      <h3>
+        Bat Out Of Hell composer Jim Steinman dies - BBC News
+      </h3>
+      <h4>
+        &lt;ol&gt;&lt;li&gt;Bat Out Of Hell composer Jim Steinman dies  BBC News
+&lt;/li&gt;&lt;li&gt;Jim Steinman, hitmaker for Meat Loaf and Céline Dion, dead at 73  CBC.ca
+&lt;/li&gt;&lt;li&gt;Jim Steinman, Rock Legend and Songwriter for Meat Loaf and Céline Dion, Dead at 73: Report  PEOPLE
+&lt;/li&gt;…
+      </h4>
+      <p
+        class="author"
+      >
+        https://www.facebook.com/bbcnews
+      </p>
+      <p
+        class="source"
+      >
+        BBC News
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/article/ip-nirvana-copyright-idUSL1N2MM2H5"
+    >
+      <h3>
+        IN BRIEF: Nirvana sued over use of Dante's Inferno art in logo - Reuters
+      </h3>
+      <h4>
+        The heir of a British artist who drew a map of hell for a translation of Dante's "Inferno" sued the band Nirvana in Los Angeles federal court for copyright infringement, alleging it misused the image on its merchandise.
+      </h4>
+      <p
+        class="author"
+      >
+        Blake Brittain
+      </p>
+      <p
+        class="source"
+      >
+        Reuters
+      </p>
+    </a>
+  </li>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://kotaku.com/randy-pitchford-what-the-hell-are-you-talking-about-1846840078"
+    >
+      <h3>
+        Randy Pitchford, What The Hell Are You Talking About
+      </h3>
+      <h4>
+        I’m generally able to follow along with Gearbox president Randy Pitchford’s manic energy, but two tweets he made this morning have thrown me for a loop. He’s not really announcing Borderlands 4, is he?Read more...
+      </h4>
+      <p
+        class="author"
+      >
+        Ian Walker
+      </p>
+      <p
+        class="source"
+      >
+        Kotaku
+      </p>
+    </a>
+  </li>
+</ul>
+`;
+
+exports[`NewsSearch container renders App 2`] = `
+<input
+  id="article-search"
+  type="text"
+  value="Yikes"
+/>
+`;
+
+exports[`NewsSearch container renders App 3`] = `
+<button
+  aria-label="search-articles"
+>
+  submit
+</button>
+`;
+
+exports[`NewsSearch container renders App 4`] = `
+Array [
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.nytimes.com/2021/05/06/sports/basketball/yuta-watanabe-raptors-japan.html"
+    >
+      <h3>
+        A Humbling N.B.A. Moment Brings Cheers From Japan
+      </h3>
+      <h4>
+        Going viral because you got dunked on? Yikes — unless you’re Yuta Watanabe, whose effort has endeared him to a growing wave of basketball fans in his home country, Japan.
+      </h4>
+      <p
+        class="author"
+      >
+        Alex Wong
+      </p>
+      <p
+        class="source"
+      >
+        New York Times
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.polygon.com/22399766/destiny-2-transmog-armor-syntehsis-system-details-fan-reaction"
+    >
+      <h3>
+        Destiny 2 fans already hate Bungie’s new armor Transmog system
+      </h3>
+      <h4>
+        Destiny 2’s new armor Transmog system is almost here, and fans are already mad about it. Bungie detailed the armor customization in a recent blog post, and fans have been giving loads of feedback based on the system’s seasonal limit and lengthy questline
+      </h4>
+      <p
+        class="author"
+      >
+        Ryan Gilliam
+      </p>
+      <p
+        class="source"
+      >
+        Polygon
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.buzzfeed.com/briangalindo/people-are-sharing-worst-job-interviews"
+    >
+      <h3>
+        18 People Are Sharing The Worst Job Interviews They Ever Had, And Yikes
+      </h3>
+      <h4>
+        "First thing the interviewer said was, 'I have no intention of hiring you.'"View Entire Post ›
+      </h4>
+      <p
+        class="author"
+      >
+        [{"@type":"Person","name":"Brian Galindo","url":"https://www.buzzfeed.com/briangalindo","jobTitle":"BuzzFeed Staff"}]
+      </p>
+      <p
+        class="source"
+      >
+        Buzzfeed
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.buzzfeed.com/meganeliscomb/sexist-things-people-say-about-money"
+    >
+      <h3>
+        People Are Sharing The Most Sexist Things They've Been Told About Money And...Just, Yikes
+      </h3>
+      <h4>
+        Pro tip: I don't need to to "talk it over with my boyfriend."View Entire Post ›
+      </h4>
+      <p
+        class="author"
+      >
+        [{"@type":"Person","name":"Megan Liscomb","url":"https://www.buzzfeed.com/meganeliscomb","jobTitle":"Personal Finance Editor"}]
+      </p>
+      <p
+        class="source"
+      >
+        Buzzfeed
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.huffpost.com/entry/wheel-of-fortune-pat-sajak-slip_n_607cef45e4b0eac4813f51ea"
+    >
+      <h3>
+        Pat Sajak’s Epic Brain Fart Almost Spoiled ‘Wheel Of Fortune’ Bonus Round
+      </h3>
+      <h4>
+        ...but the contestant didn't even notice.
+      </h4>
+      <p
+        class="author"
+      >
+        Ed Mazza
+      </p>
+      <p
+        class="source"
+      >
+        HuffPost
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://ogn.theonion.com/jesus-christ-shigeru-miyamoto-has-confirmed-that-every-1846740937"
+    >
+      <h3>
+        Jesus Christ: Shigeru Miyamoto Has Confirmed That Every Nintendo Switch Is Wired To Explode If His Heart Stops For Any Reason
+      </h3>
+      <h4>
+        Yikes, well, we’ve got some pretty terrifying news. Shigeru Miyamoto has just confirmed that every Nintendo Switch on Earth is wired with explosives to detonate if his heart stops for any reason.Read more...
+      </h4>
+      <p
+        class="author"
+      >
+        Matt Crowley
+      </p>
+      <p
+        class="source"
+      >
+        Theonion.com
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.reuters.com/article/factcheck-covid-herpes-idUSL1N2MF1XR"
+    >
+      <h3>
+        Fact Check-Study does not show COVID-19 link to genital herpes - Reuters
+      </h3>
+      <h4>
+        Some social media posters have been wrongly suggesting a medical study has shown a link between COVID-19 and genital herpes.
+      </h4>
+      <p
+        class="author"
+      >
+        Reuters Fact Check
+      </p>
+      <p
+        class="source"
+      >
+        Reuters
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://news.yahoo.com/matthew-mcconaughey-double-digit-lead-155109326.html"
+    >
+      <h3>
+        Matthew McConaughey has double-digit lead over Greg Abbott in Texas governor's race poll
+      </h3>
+      <h4>
+        Actor Matthew McConaughey has a 12-point lead over Texas Gov. Greg Abbott in a hypothetical matchup for the governorship, according to a Dallas Morning News ...
+      </h4>
+      <p
+        class="author"
+      >
+        Fadel Allassan
+      </p>
+      <p
+        class="source"
+      >
+        Yahoo Entertainment
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.insider.com/billie-eilish-first-date-british-vogue-interview-matthew-tyler-vorce-2021-5"
+    >
+      <h3>
+        Billie Eilish says she recently went on a date for the 'first time' amid dating rumors with Matthew Tyler Vorce
+      </h3>
+      <h4>
+        The 19-year-old "Bad Guy" singer answered a series of questions from friends and celebrities as the cover star of British Vogue's June issue.
+      </h4>
+      <p
+        class="author"
+      >
+        Claudia Willen
+      </p>
+      <p
+        class="source"
+      >
+        INSIDER
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.businessinsider.com/personal-finance/how-to-earn-interest-on-savings-2021-5"
+    >
+      <h3>
+        'How can I earn the most interest on all the money I've saved during the pandemic?'
+      </h3>
+      <h4>
+        Summary List PlacementThanks to reduced spending over the last year due to the pandemic, I have finally been able to build up a decent emergency cash savings fund. What is the best place/product to park it in that will allow it to gain in value while remainin…
+      </h4>
+      <p
+        class="author"
+      >
+        Tanza Loudenback
+      </p>
+      <p
+        class="source"
+      >
+        Business Insider
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.themarysue.com/scarlett-johansson-and-mark-ruffalo-call-out-the-golden-globes-for-lack-of-diversity/"
+    >
+      <h3>
+        Scarlett Johansson and Mark Ruffalo Call Out the Golden Globes for Lack of Diversity - The Mary Sue
+      </h3>
+      <h4>
+        &lt;ol&gt;&lt;li&gt;Scarlett Johansson and Mark Ruffalo Call Out the Golden Globes for Lack of Diversity  The Mary Sue
+&lt;/li&gt;&lt;li&gt;Golden Globes 2022 cancelled as HFPA struggles with diversity reform  The A.V. Club
+&lt;/li&gt;&lt;li&gt;Scarlett Johansson Slams Golden Globes' HFPA: Th…
+      </h4>
+      <p
+        class="author"
+      >
+        chelsea-steiner
+      </p>
+      <p
+        class="source"
+      >
+        The Mary Sue
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://mashable.com/article/best-stephen-king-book-endings/"
+    >
+      <h3>
+        10 of the best Stephen King book endings
+      </h3>
+      <h4>
+        Stephen King gets a lot of flack for his endings.
+It's been happening for years nowOpinion pieces have even been written on the topic, some of which the horror author has responded to himself. In the second chapter of the film adaptation of It, King made a ca…
+      </h4>
+      <p
+        class="author"
+      >
+        Sam Haysom
+      </p>
+      <p
+        class="source"
+      >
+        Mashable
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://deadspin.com/the-olympic-torch-relay-is-going-just-great-1846808059"
+    >
+      <h3>
+        The Olympic torch relay is going just great
+      </h3>
+      <h4>
+        Japan has a fire to put out.Read more...
+      </h4>
+      <p
+        class="author"
+      >
+        Dustin Foote
+      </p>
+      <p
+        class="source"
+      >
+        Deadspin
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://9to5mac.com/2021/04/14/apple-watch-ians-awesome-counter-app/"
+    >
+      <h3>
+        ‘Ian’s Awesome Counter’ for Apple Watch aims to help you be more focused and aware
+      </h3>
+      <h4>
+        David Smith, the prolific developer behind apps like Watchsmith and Widgetsmith, is out with a new Apple Watch app today. “Ian’s Awesome Counter” is a new application for Apple Watch that Smith says is “designed to help you be more focused and aware of yourse…
+      </h4>
+      <p
+        class="author"
+      >
+        Chance Miller
+      </p>
+      <p
+        class="source"
+      >
+        9to5Mac
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://deadspin.com/red-hot-steph-curry-scores-30-again-but-warriors-lose-1846708174"
+    >
+      <h3>
+        Red-hot Steph Curry scores 30 again but Warriors lose
+      </h3>
+      <h4>
+        Stephen Curry has been on one lately, and that continued on Saturday night in Boston, where he scored 47 points, made 11 three-pointers, grabbed seven rebounds… and Golden State still fell back to .500 with a 119-114 loss to the Celtics, who got 44 points fro…
+      </h4>
+      <p
+        class="author"
+      >
+        Jesse Spector
+      </p>
+      <p
+        class="source"
+      >
+        Deadspin
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://thehockeywriters.com/maple-leafs-roster-moves-matthews-nylander-campbell/"
+    >
+      <h3>
+        Maple Leafs News & Roster Moves: Matthews, Nylander & Thornton - The Hockey Writers
+      </h3>
+      <h4>
+        &lt;ol&gt;&lt;li&gt;Maple Leafs News & Roster Moves: Matthews, Nylander & Thornton  The Hockey Writers
+&lt;/li&gt;&lt;li&gt;Canucks’ Green opens up about battle with COVID-19, return to the ice  Sportsnet.ca
+&lt;/li&gt;&lt;li&gt;Canucks: At least 21 players test positive for COVID-19  Al Jaze…
+      </h4>
+      <p
+        class="author"
+      >
+        The Old Prof
+      </p>
+      <p
+        class="source"
+      >
+        The Hockey Writers
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://film.avclub.com/fisher-stevens-a-very-white-guy-now-regrets-playing-a-1846868532"
+    >
+      <h3>
+        Fisher Stevens, a very white guy, now regrets playing an Indian character in Short Circuit
+      </h3>
+      <h4>
+        Fisher Stevens’ character in Short Circuit wasn’t always supposed to be an Indian man. Ben was actually supposed to be a white grad student, but director John Badham decided that it’d be better to have the character be Indian. But in a move that makes absolut…
+      </h4>
+      <p
+        class="author"
+      >
+        Tatiana Tenreyro
+      </p>
+      <p
+        class="source"
+      >
+        The A.V. Club
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://slate.com/business/2021/04/dogecoin-i-bought-some-wow.html"
+    >
+      <h3>
+        Yeah, I Bought Some Dogecoin Today
+      </h3>
+      <h4>
+        If the financial and crypto markets are going to be so dumb, count me in.
+      </h4>
+      <p
+        class="author"
+      >
+        Jordan Weissmann
+      </p>
+      <p
+        class="source"
+      >
+        Slate Magazine
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://deadspin.com/hurts-so-good-too-bad-his-dumbass-coach-doesn-t-see-it-1846733109"
+    >
+      <h3>
+        Hurts so good, too bad his dumbass coach doesn’t see it
+      </h3>
+      <h4>
+        Even after trading Carson Wentz, Jalen Hurts still isn’t being treated like a franchise quarterback, despite the only other quarterback option on the Philadelphia Eagles’ roster being 36-year-old statuesque can-only-operate-from-the-pocket Joe Flacco. Apparen…
+      </h4>
+      <p
+        class="author"
+      >
+        Jon Helmkamp
+      </p>
+      <p
+        class="source"
+      >
+        Deadspin
+      </p>
+    </a>
+  </li>,
+  <li
+    aria-label="article"
+  >
+    <a
+      href="https://www.highsnobiety.com/p/supreme-milan-bogo-stockx/"
+    >
+      <h3>
+        Supreme’s New Milan Bogo Is Already Selling for Hundreds on StockX
+      </h3>
+      <h4>
+        You already know the drill: A new Supreme store means a new Box logo T-shirt. To mark its recently-unveiled flagship store in Milan, Supreme opted for one of its most divine prints yet. The white tee features the streetwear imprint’s signature Futura-font log…
+      </h4>
+      <p
+        class="author"
+      >
+        Sarah Osei
+      </p>
+      <p
+        class="source"
+      >
+        Highsnobiety
+      </p>
+    </a>
+  </li>,
+]
+`;

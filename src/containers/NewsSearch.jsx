@@ -1,5 +1,4 @@
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
+import React, { Component } from 'react';
 import Spinner from '../components/Spinner';
 import ArticleList from '../components/article/ArticleList';
 import Search from '../components/article/Search';

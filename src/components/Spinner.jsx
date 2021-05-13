@@ -1,10 +1,13 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+import React from 'react';
+import PropTypes from 'prop-types';
+import style from './style.css'
 
 const Spinner = props => {
     return (
-        <div aria-label='loading'>
-            loading...
+        <div 
+            className={style.spinner}
+            aria-label='loading'>
+            <h1>loading...</h1>
         </div>
     )
 }
