@@ -1,8 +1,10 @@
 import { formatHeadlines } from './munge-utils';
 
 export const getThePaper = async () => {
-    const res = await fetch(`https://newsapi.org/v2/everything?q=hell&apiKey=${process.env.NEWS_API_KEY}`)
+    const res = await fetch(`https://newsapi.org/v2/everything?q=ghosts&apiKey=${process.env.NEWS_API_KEY}`)
     const { articles } = await res.json();
+
+    console.log(res)
     const printedHeadlines = formatHeadlines(articles)
     
     return printedHeadlines;

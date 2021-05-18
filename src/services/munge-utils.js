@@ -1,5 +1,4 @@
 export const formatHeadlines = (articles) => {
-    
     const freshInk = articles.map((article) => {
         return {
             title: article.title,
