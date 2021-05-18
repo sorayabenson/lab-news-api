@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsSearch container renders App 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li
+    aria-label="article"
+  >
+    <a
+      href="www.ghost.com"
+    >
+      <h3>
+        Ghosts, are they you?
+      </h3>
+      <h4>
+        A study on past, present, and future ghosts
+      </h4>
+      <p
+        class="author"
+      >
+        Mr. Boo
+      </p>
+      <p
+        class="source"
+      >
+        The Washington Ghost
+      </p>
+    </a>
+  </li>
+</ul>
+`;
+
+exports[`NewsSearch container renders App 2`] = `
+<input
+  id="article-search"
+  type="text"
+  value="ghosts"
+/>
+`;
+
+exports[`NewsSearch container renders App 3`] = `
+<button
+  aria-label="search-articles"
+>
+  submit
+</button>
+`;
+
+exports[`NewsSearch container renders App 4`] = `
+Array [
+  <li
+    aria-label="article"
+  >
+    <a
+      href="www.ghost.com"
+    >
+      <h3>
+        Ghosts, are they you?
+      </h3>
+      <h4>
+        A study on past, present, and future ghosts
+      </h4>
+      <p
+        class="author"
+      >
+        Mr. Boo
+      </p>
+      <p
+        class="source"
+      >
+        The Washington Ghost
+      </p>
+    </a>
+  </li>,
+]
+`;
